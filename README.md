@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a front-end developer with little to no experience. Just started programming professionaly but have a knack for logic and a spirit to keep trying to find the solution.
+I have interest in many things and have tried this and that in custom recovery for phones to machine learning. Though work keeps busy and therefore no time for these hobbies.
+
 <!--
 **PriyankVashiar/PriyankVashiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
